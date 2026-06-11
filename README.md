@@ -22,9 +22,10 @@ Here’s what I enjoy working on:
 
 ## [🛠️ Tools](#tools)
 
-- Language: SQL, R
+- Language: SQL, R, Python
 - Database: Google BigQuery, MySQL
-- Visualization: Tableau, Excel
+- Visualisation: Tableau, Excel
+- Data Tools: Databricks
 
 ## [👋🏻 Connect with Me](#connect-with-me)
 
