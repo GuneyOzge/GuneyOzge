@@ -7,15 +7,15 @@ Hi, I'm Ozge. I'm a Business Data Analyst passionate about transforming raw data
 
 Here’s what I enjoy working on:
 
-   - 🔎 Querying and analyzing data using SQL
+   - 🔎 Querying and analysing data using SQL
 
    - 📊 Generating reports and performing ad-hoc data analysis
 
    - 📈 Building interactive dashboards with Tableau
 
-   - 📑 Analyzing and reporting data using Google Sheets and Excel
+   - 📑 Analysing and reporting data using Google Sheets and Excel
 
-   - ⚡ Optimizing queries and working with data models & database design
+   - ⚡ Optimising queries and working with data models & database design
 
 
 ## [📚 Projects](#projects)
@@ -26,7 +26,7 @@ Here’s what I enjoy working on:
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 📚 [Library Management Database System](git@github.com:GuneyOzge/Code_First_Girls-Coding_Kickstarter_Program.git) | Design a normalised relational database, Data analysis, data cleaning, data transformation | The project demonstrates database design principles, relational database implementation, data management, and advanced SQL querying techniques.| 
+| 📚 [Library Management Database System](https://github.com/GuneyOzge/Code_First_Girls-Coding_Kickstarter_Program.git) | Design a normalised relational database, Data analysis, data cleaning, data transformation | The project demonstrates database design principles, relational database implementation, data management, and advanced SQL querying techniques.| 
 
 ***
 
