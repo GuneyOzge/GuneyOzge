@@ -20,6 +20,16 @@ Here’s what I enjoy working on:
 
 ## [📚 Projects](#projects)
 
+***
+
+# SQL
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 📚 [Library Management Database System](git@github.com:GuneyOzge/Code_First_Girls-Coding_Kickstarter_Program.git) | Design a normalised relational database, Data analysis, data cleaning, data transformation | The project demonstrates database design principles, relational database implementation, data management, and advanced SQL querying techniques.| 
+
+***
+
 ## [🛠️ Tools](#tools)
 
 - Language: SQL, R, Python
