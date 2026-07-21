@@ -20,14 +20,13 @@ Here’s what I enjoy working on:
 
 ## [📚 Projects](#projects)
 
-***
-
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 📚 [Library Management Database System](https://github.com/GuneyOzge/Code_First_Girls-Coding_Kickstarter_Program.git) | Design a normalised relational database, Data analysis, data cleaning, data transformation | The project demonstrates database design principles, relational database implementation, data management, and advanced SQL querying techniques.| 
 | 👩🏻‍💻 [Global Layoffs](https://github.com/GuneyOzge/Global-Layoffs-Trends-Analysis-with-SQL.git) | Data analysis, data cleaning, data transformation | Projects demonstrate technical expertise and practical problem-solving across diverse datasets and business scenarios.|
+| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/GuneyOzge/Google-Data-Analytics-Capstone.git) | Exploratory Data Analysis| Explored Fitbit user behaviour by analysing app usage patterns, weekly activity trends, and the relationship between tracked time, physical activity levels, and calorie consumption to uncover meaningful health insights.|
 
 ***
 
@@ -37,7 +36,6 @@ Here’s what I enjoy working on:
 |---|---|---|---|
 | 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/GuneyOzge/Google-Data-Analytics-Capstone.git) | Exploratory Data Analysis| Explored Fitbit user behaviour by analysing app usage patterns, weekly activity trends, and the relationship between tracked time, physical activity levels, and calorie consumption to uncover meaningful health insights.| pandas, matplotlib, seaborn |
 
-***
 
 ## [🛠️ Tools](#tools)
 
