@@ -35,8 +35,7 @@ Here’s what I enjoy working on:
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/GuneyOzge/Google-Data-Analytics-Capstone.git) | Exploratory Data Analysis
- | Explored Fitbit user behaviour by analysing app usage patterns, weekly activity trends, and the relationship between tracked time, physical activity levels, and calorie consumption to uncover meaningful health insights. | pandas, matplotlib, seaborn |
+| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/GuneyOzge/Google-Data-Analytics-Capstone.git) | Exploratory Data Analysis| Explored Fitbit user behaviour by analysing app usage patterns, weekly activity trends, and the relationship between tracked time, physical activity levels, and calorie consumption to uncover meaningful health insights.| pandas, matplotlib, seaborn |
 
 ***
 
