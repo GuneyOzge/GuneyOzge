@@ -7,7 +7,7 @@ Hi, I'm Ozge. I'm a Business Data Analyst passionate about transforming raw data
 
 Here’s what I enjoy working on:
 
-   - 🔎 Querying and analysing data using SQL
+   - 🔎 Querying and analysing data using SQL, Python
 
    - 📊 Generating reports and performing ad-hoc data analysis
 
